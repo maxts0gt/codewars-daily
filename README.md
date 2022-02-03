@@ -1,1 +1,1 @@
-# Place I publish my CODEWARS solutions
+# Place where I publish my CODEWARS solutions
