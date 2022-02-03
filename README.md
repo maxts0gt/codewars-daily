@@ -1,1 +1,1 @@
-# codewars-daily
+# Place I publish my CODEWARS solutions
